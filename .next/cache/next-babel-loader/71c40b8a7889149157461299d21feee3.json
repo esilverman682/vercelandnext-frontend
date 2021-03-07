@@ -1,0 +1,1 @@
+{"ast":null,"code":"/**\n * Display the number to have 2 digits\n * @param {*} number \n */\nexport const twoDecimals = number => parseFloat(number).toFixed(2);","map":null,"metadata":{},"sourceType":"module"}
